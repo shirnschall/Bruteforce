@@ -17,7 +17,7 @@ void getGuess()
     // add #include <math.h> to the header file
     // and the following to the cpp file:
     //  int k = 0;
-    //  while(k++ <= pow(CHAR_COUNT,MAX_PASSWORD_LENGTH))
+    //  while(k++ < pow(CHAR_COUNT,MAX_PASSWORD_LENGTH))
     // you would have to define MAX_PASSWORD_LENGTH as the max length passwords you want to try
 
     while(1)    // change here if you want to configure the max number of guesses
