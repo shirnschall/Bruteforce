@@ -12,7 +12,6 @@ void getGuess()
     for(i = 1; i <= MAX_SIZE ; guess[i++] = '\0');      // initializing guess with NULL
     // change the initialisation of guess if you want the algorithm to start with a certain word/length.
 
-
     // if you want to constrain the algorithm to a certain length of password you could add a new var k, such that k < CHAR_COUNT^max_password_length
     // you could use the following code:
     // add #include <math.h> to the header file
