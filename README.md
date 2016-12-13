@@ -1,6 +1,6 @@
 # Bruteforce
 
-A fast and easy to use bruteforce-algorithm written in C
+A very fast and easy to use bruteforce-algorithm written in C
 
 ## Speed
 
