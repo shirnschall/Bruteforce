@@ -18,5 +18,5 @@ Simply include the bruteforce.h header file in your C or C++ project and you can
 ### getGuess()
 
 Once called the getGuess function will continue to guess new strings/words until you manually interrupt it.    
-If you want to you can easily change the algorithm to stop after a certain length of word. How to do this is documented in the bruteforce.cpp file.     
+If you want to, you can easily change the algorithm to stop after a certain length of word. How to do this is documented in the bruteforce.cpp file.     
 If you want the algorithm to start with a certain word/length, you would have to change the initialisation of the guess[] array.
