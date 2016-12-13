@@ -10,7 +10,6 @@ A very fast and easy to use bruteforce-algorithm written in C
 |    100,000,000    |  0.138s |
 |   1,000,000,000   |  1.383s |
 |   10,000,000,000  |  11.152s|
-|  100,000,000,000  | 107.432s|
 
 ## Usage
 
